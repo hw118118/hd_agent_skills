@@ -29,10 +29,10 @@ Activate by asking Claude something like: *"Write a full architecture writeup fo
 
 ### Option A — Claude Code marketplace
 
-From the parent `agent_skills` repo:
+From the parent `hd_agent_skills` repo:
 
 ```
-/plugin marketplace add <git-url-of-agent_skills>
+/plugin marketplace add <git-url-of-hd_agent_skills>
 /plugin install codebase-analyzer-docs
 ```
 
@@ -55,4 +55,4 @@ The `postinstall` script prints the exact `marketplace add` path.
 
 ## License
 
-MIT. Authored from scratch inside the [`agent_skills`](../) marketplace.
+MIT. Authored from scratch inside the [`hd_agent_skills`](../) marketplace.

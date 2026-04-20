@@ -1,8 +1,8 @@
 {
-  "name": "agent-skills",
-  "id": "agent-skills",
+  "name": "hd-agent-skills",
+  "id": "hd-agent-skills",
   "owner": {
-    "name": "agent_skills"
+    "name": "hd_agent_skills"
   },
   "metadata": {
     "description": "Industrial-grade, general-purpose Claude Code skills collected and curated for cross-project reuse.",
@@ -31,7 +31,7 @@
       "description": "Generate deep, structured onboarding documentation for a codebase — architecture, module deep-dives, grounded code snippets, and Mermaid diagrams, split across multiple readable documents.",
       "version": "0.1.0",
       "author": {
-        "name": "agent_skills contributors"
+        "name": "hd_agent_skills contributors"
       },
       "keywords": [
         "documentation",

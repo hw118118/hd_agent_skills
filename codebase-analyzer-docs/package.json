@@ -23,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hw118118/agent_skills.git",
+    "url": "git+https://github.com/hw118118/hd_agent_skills.git",
     "directory": "codebase-analyzer-docs"
   },
-  "homepage": "https://github.com/hw118118/agent_skills/tree/main/codebase-analyzer-docs",
+  "homepage": "https://github.com/hw118118/hd_agent_skills/tree/main/codebase-analyzer-docs",
   "bugs": {
-    "url": "https://github.com/hw118118/agent_skills/issues"
+    "url": "https://github.com/hw118118/hd_agent_skills/issues"
   }
 }

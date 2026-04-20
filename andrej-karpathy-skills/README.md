@@ -17,10 +17,10 @@ See [`skills/karpathy-guidelines/SKILL.md`](skills/karpathy-guidelines/SKILL.md)
 
 ### Option A — Claude Code marketplace
 
-From the parent `agent_skills` repo:
+From the parent `hd_agent_skills` repo:
 
 ```
-/plugin marketplace add <git-url-of-agent_skills>
+/plugin marketplace add <git-url-of-hd_agent_skills>
 /plugin install andrej-karpathy-skills
 ```
 

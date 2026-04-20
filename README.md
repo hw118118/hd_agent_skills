@@ -1,4 +1,4 @@
-# agent_skills
+# hd_agent_skills
 
 An industrial-grade, **general-purpose** Claude Code skill marketplace. Skills here are intended to be portable across projects — no org-specific paths, hostnames, or credentials baked in.
 
